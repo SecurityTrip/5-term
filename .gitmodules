@@ -1,0 +1,36 @@
+[submodule "EVM/3"]
+	path = EVM/3
+	url = https://github.com/SecurityTrip/EVM-LR-3.git
+[submodule "EVM/2"]
+	path = EVM/2
+	url = https://github.com/SecurityTrip/EVM-LR-2.git
+[submodule "EVM/1"]
+	path = EVM/1
+	url = https://github.com/SecurityTrip/EVM-LR-1.git
+[submodule "CG/2"]
+	path = CG/2
+	url = https://github.com/SecurityTrip/CG_LR_2.git
+[submodule "CG/3"]
+	path = CG/3
+	url = https://github.com/SecurityTrip/CG_LR_3.git
+[submodule "CG/4"]
+	path = CG/4
+	url = https://github.com/SecurityTrip/CG-LR-4.git
+[submodule "CG/5"]
+	path = CG/5
+	url = https://github.com/SecurityTrip/CG-LR-5.git
+[submodule "DB/1"]
+	path = DB/1
+	url = https://github.com/SecurityTrip/DB-LR-1.git
+[submodule "DB/3"]
+	path = DB/3
+	url = https://github.com/SecurityTrip/DB-LR-3.git
+[submodule "DB/4"]
+	path = DB/4
+	url = https://github.com/SecurityTrip/DB-LR-4.git
+[submodule "DB/5"]
+	path = DB/5
+	url = https://github.com/SecurityTrip/DB-LR-5.git
+[submodule "MSDT"]
+	path = MSDT
+	url = https://github.com/SecurityTrip/MSDT.git
